@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 -->
 
-<div align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scpsyl&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scpsyl&langs_count=10&theme=tokyonight&layout=compact" alt="scpsyl :: Top Langs" /></p>
 
-
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=scpsyl)]()
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=scpsyl&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
