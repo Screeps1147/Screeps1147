@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=scpsyl&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<div align="center">
+<div align="left">
     <a href="http://subhadipmaiti.me/">
     <img  src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg"
          alt="snake" /></a>
