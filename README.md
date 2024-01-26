@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
--->
+
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scpsyl&langs_count=10&theme=tokyonight&layout=compact" alt="scpsyl :: Top Langs" /></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=scpsyl&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
+-->
 
